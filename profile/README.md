@@ -1,6 +1,6 @@
 This is an organization for projects created by students at University of Colorado Boulder with The Boeing Company.
 
-#### Table of Contents
+#### Contents
 1. [Spring 2022](https://github.com/CU-Boeing-Projects/spring2022) 
 2. [PDF Extaction (Fall 2022)](https://github.com/CU-Boeing-Projects/PDF-Extraction)
 
