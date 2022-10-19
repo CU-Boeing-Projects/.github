@@ -4,4 +4,4 @@ This is an organization for projects created by students at University of Colora
 1. [Spring 2022](https://github.com/CU-Boeing-Projects/spring2022) 
 2. [PDF Extaction (Fall 2022)](https://github.com/CU-Boeing-Projects/PDF-Extraction)
 
-To request permission to view or use this work in your own research, email Tyler Reiser at tyler.reiser@colorado.edu.
+To view the projects, email Tyler at tyler.reiser@colorado.edu.
